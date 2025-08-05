@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Yash 
 
-## Experienced Product Analyst & Data Analyst 📊💻
+## Experienced Product Data Analyst 📊💻
 **Result-driven**, passionate, and quality-conscious Analyst with **4 years of experience** in business analysis, product analytics, and data engineering. I bring strong stakeholder management, analytical, and problem-solving skills. As a **Product Analyst** at **Bajaj Allianz General Insurance** and **Data Analytics Engineer** at **Mitibase**, and **Data Science Trainee** at **Blue Star India**, I have gained valuable experience in driving business insights via efficient data analysis.
 
 ### 💼 Bajaj Allianz General Insurance Company (Product Analyst)

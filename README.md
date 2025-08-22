@@ -1,29 +1,14 @@
-## Hi! 👋 I'm Yash 
+🚀 Welcome to My GitHub Profile
 
-## Experienced Product Data Analyst 📊💻
-**Result-driven**, passionate, and quality-conscious Analyst with **4 years of experience** in business analysis, product analytics, and data engineering. I bring strong stakeholder management, analytical, and problem-solving skills. As a **Product Analyst** at **Bajaj Allianz General Insurance** and **Data Analytics Engineer** at **Mitibase**, and **Data Science Trainee** at **Blue Star India**, I have gained valuable experience in driving business insights via efficient data analysis.
+Hi there! I'm Yash Khatavkar, a Product Analyst & Data Enthusiast with 5 years of experience in insurance, retail, and SaaS analytics. I specialize in data-driven decision-making, KPI tracking, and automation pipelines that scale impact across teams.
 
-### 💼 Bajaj Allianz General Insurance Company (Product Analyst)
-- Automated **Tableau** reports to significantly enhance product planning and analysis processes.
-- Designed and implemented **Qlik Sense** dashboards to effectively track agent performance, leading to higher efficiency and performance.
-
-
-### 🏠 Blue Star India Limited (Data Analyst and Engineering Intern)
-- Conducted **geospatial analysis** to optimize service routes and reduce operational inefficiencies.
-- Automated invoice data extraction processes using **OpenCV(OCR)**, improving data accuracy of product documentation management.
-
-### 🔧 Mitibase Technologies (Data Analytics Engineer)
-- Engineered a **Neo4j** graph to enhance data relationships and reporting, streamlining data access.
-- Led preprocessing efforts for complex **JSON datasets** using **Python**, ensuring the integrity and accuracy of subsequent analyses.
-
-### 🏢 Sedin Technologies (Data Analyst Intern)
-- Designed **ETL scripts** using **Azure Data Factory**, significantly improving the efficiency of data processing workflows.
-- Optimized data quality through advanced **SQL** techniques, eliminating duplicates and ensuring consistency across datasets.
-
----
-
-I specialize in transforming **raw data** into actionable insights using tools like **Python**, **SQL**, **Tableau**, **Neo4j**, and **Azure**. My expertise includes **product analytics**, **data visualizations**, **dashboards**, and **ETL processes** to drive data-informed decision-making.
-
-📫 **How to reach me:** [yashkhatavkar27@gmail.com](mailto:yashkhatavkar27@gmail.com)
-
-Let’s connect and collaborate to solve exciting problems with data: [LinkedIn](https://www.linkedin.com/in/yashkhatavkar24/)
+🔹 Programming & Data
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> </p>
+📊 BI & Analytics
+<p align="left"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Mixpanel-5A43F1?style=for-the-badge&logo=mixpanel&logoColor=white" /> <img src="https://img.shields.io/badge/Amplitude-1C1C1C?style=for-the-badge&logo=amplitude&logoColor=white" /> </p>
+☁️ Databases & Cloud
+<p align="left"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" /> </p>
+🧪 Experimentation & ML
+<p align="left"> <img src="https://img.shields.io/badge/A%2FB%20Testing-6C63FF?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> </p>
+🛠️ Workflow & Collaboration
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /> </p
